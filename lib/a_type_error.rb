@@ -2,4 +2,4 @@
 
 # 1 + "is the loneliest number"
 
-1 + "7".to_i
+puts 1 + "7".to_i
