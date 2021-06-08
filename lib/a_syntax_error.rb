@@ -1,3 +1,6 @@
 x = 1
 
-x = 
+def x = 1
+  puts "x = 1"
+end
+  
