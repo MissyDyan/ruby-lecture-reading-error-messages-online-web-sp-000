@@ -1,6 +1,6 @@
 x = 1
 
-def x = 1(variable, equals, numbers)
+def x=1(variable, equals, numbers)
   {
     "variable" => x,
     "equals" => =,
