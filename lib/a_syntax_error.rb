@@ -7,5 +7,3 @@ def x = 1(variable, equals, numbers)
     "numbers" => 1
   }
 end
-  
-  
